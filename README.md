@@ -16,7 +16,7 @@
     ```
     - 2.运行以下打包微信小程序命令，生成dist小程序源码目录,在微信开发者工具导入dist的目录
     ```
-      npm run dev:weapp
+     npm run dev:weapp
     ```
 
 ## License
